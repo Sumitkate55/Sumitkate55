@@ -109,9 +109,29 @@
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sumitkate55" target="_blank">LinkedIn</a> •
-  <a href="mailto:katesumit55@gmail.com">Email</a> •
-  <a href="https://sumitkate55.github.io/sumit-kate-portfolio" target="_blank">Portfolio</a>
+  <a href="https://www.linkedin.com/in/sumitkate55" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+  </a>
+  <a href="https://www.instagram.com/sumitkate_45" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
+  </a>
+  <a href="https://x.com/Johnwickaezi" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" />
+  </a>
+  <a href="mailto:katesumit55@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
+  </a>
+  <a href="https://sumitkate55.github.io/sumit-kate-portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111111" />
+  </a>
 </p>
 
-<p align="center"><i>Thanks for stopping by — always open to interesting projects and collaborations!</i></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=8B949E&center=true&vCenter=true&width=550&lines=Thanks+for+stopping+by+%F0%9F%91%8B;Always+open+to+interesting+projects+%26+collabs;Let's+build+something+great+together." alt="Typing SVG" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sumitkate55&label=Profile%20Views&color=2F81F7&style=flat" alt="Profile views" />
+</p>
